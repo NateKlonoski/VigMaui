@@ -1,4 +1,5 @@
 ﻿using GeoJSON.Text.Geometry;
+using Point = GeoJSON.Text.Geometry.Point;
 
 namespace MauiVigilant
 {
