@@ -6,7 +6,7 @@ We want to quickly step through common tasks in setting up a project from the gr
 These are the goals:
 Establish a new .NET MAUI project targeting iOS/Android and Windows if supported on your dev machine.
 
-You will need to add the following package to your project:
+You will need to add the following package to your project: 
 		<PackageReference Include="GeoJSON.Text" Version="1.1.0" />
   
 A data file is included in this directory as well as a Datastore definition and object definition for that data file.
